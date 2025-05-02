@@ -38,3 +38,7 @@ You can install the requirements using:
 
 ```bash
 pip install pandas matplotlib seaborn numpy folium plotly
+```
+or
+```bash
+pip install -r requirements.txt
